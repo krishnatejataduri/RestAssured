@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2779" started-at="2019-06-17T05:54:57Z" finished-at="2019-06-17T05:55:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2779" started-at="2019-06-17T05:54:57Z" finished-at="2019-06-17T05:55:00Z">
+      <class name="APITesting.api.WeatherGetRequests">
+        <test-method status="PASS" signature="Test_01()[pri:0, instance:APITesting.api.WeatherGetRequests@4501b7af]" name="Test_01" duration-ms="2673" started-at="2019-06-17T05:54:57Z" finished-at="2019-06-17T05:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01 -->
+      </class> <!-- APITesting.api.WeatherGetRequests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
